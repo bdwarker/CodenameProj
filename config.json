@@ -1,0 +1,17 @@
+{
+    "conversation_model": "llama3.1",
+    "json_model": "gemma3:4b",
+    "image_model": "minicpm-v:8b",
+    "elevenlabs_voice": "cgSgspJ2msm6clMCkdW9",
+    "use_elevenlabs": false,
+    "debug_mode": false,
+    "vits_speaker_id": "p237",
+    "use_speech_recognition": true,
+    "exit_commands": [
+        "quit",
+        "exit",
+        "stop"
+    ],
+    "name": "Cyra",
+    "ollama_model": "gemma3:4b"
+}

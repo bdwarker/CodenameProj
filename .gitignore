@@ -1,0 +1,20 @@
+node_modules/
+.env
+*.log
+__pycache__
+*.exe
+*.DS_Store
+.venv/
+logs/
+voice/
+eSpeak NG/
+output.wav
+database/
+tesseract/
+images/
+outputs/
+test.py
+utils/logs/
+ollama_prompt.txt
+contacts_images/
+config.json

@@ -1,0 +1,16 @@
+[
+    {
+        "action": "action_name1",
+        "details": "details1", 
+        "remember": "boolean", 
+        "memory_key": "string", 
+        "memory_value": "string"
+    },
+    {   
+        "action": "action_name2", 
+        "details": "details2", 
+        "remember": "boolean", 
+        "memory_key": "string", 
+        "memory_value": "string"
+    }
+]
