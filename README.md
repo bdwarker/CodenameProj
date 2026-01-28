@@ -6,12 +6,12 @@ An intelligent, voice-enabled AI assistant built with local LLMs, designed to be
 
 ## 🌟 Overview
 
-CodenameProj (Cyra) is a modular AI assistant system that combines voice interaction, computer vision, and intelligent action execution. Built with privacy in mind, it runs entirely on local models with no reliance on cloud services (except optional ElevenLabs TTS).
+CodenameProj (Cyra) is a AI assistant system that combines voice interaction, computer vision, and intelligent action execution. Built with privacy in mind, it runs entirely on local models with no reliance on cloud services (except optional ElevenLabs TTS).
 
 ### Key Features
 
 - 🎨 **Modern GUI**: Sleek, dark-themed interface built with CustomTkinter.
-- 🎤 **Async Voice Interaction**: Continuous, non-blocking speech recognition using Faster Whisper.
+- 🎤 **Voice Interaction**: Continuous, non-blocking speech recognition using Faster Whisper.
 - 🛑 **Interruptible Output**: Stop the assistant mid-sentence or mid-action instantly.
 - 📂 **File System Control**: Read, write, list, and delete files directly through voice commands.
 - ✍️ **Content Generation**: Ask Cyra to write code, poems, or emails, and she'll generate the content and save it to a file.
